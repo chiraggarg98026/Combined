@@ -84,6 +84,32 @@
             android:name=".cbc.CBCFavoritesActivity"
             android:label="@string/cbc_app_name"
             android:screenOrientation="portrait" />
+
+        <!-- OCTranspo app activities below -->
+        <activity
+            android:name=".oc.OCMainActivity"
+            android:label="@string/oc_app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".oc.OCFavoritesActivity"
+            android:label="Favorites"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".oc.OCNextTripActivity"
+            android:label="Next trips"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".oc.OCTripsActivity"
+            android:label="Trips"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".oc.OCDetailsActivity"
+            android:label="Trip details"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".oc.OCStatisticsActivity"
+            android:label="Statistics"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>

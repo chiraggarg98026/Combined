@@ -109,4 +109,55 @@
         click on the news title. You can read short article here, you can also save the article
         offline to view later. You can also read detailed article by clicking the
         \"READ MORE (VIEW IN BROWSER)\" button.</string>
+
+    <!--OC transpo app strings-->
+    <string name="oc_app_name" translatable="false">OCTranspo Bus Route</string>
+    <string name="oc_hint_route_no">Enter route number…</string>
+
+    <string name="oc_statistics">Statistics</string>
+    <string name="oc_help">Help</string>
+    <string name="oc_destination">Destination</string>
+    <string name="oc_start_time">Start time</string>
+    <string name="oc_stop">Stop</string>
+    <string name="oc_route">Route</string>
+    <string name="oc_trip_start_time">Trip start time</string>
+    <string name="oc_route_no">Route no</string>
+    <string name="oc_directionid">DirectionID</string>
+    <string name="oc_direction">Direction</string>
+    <string name="oc_routeheading">RouteHeading</string>
+    <string name="oc_route_label">Route label</string>
+    <string name="oc_showing_route_directions_for">Showing route-directions for:</string>
+    <string name="oc_select_trip_route">Select trip route</string>
+    <string name="oc_select_route_direction">Select route-direction</string>
+    <string name="oc_bus_stop">Bus Stop</string>
+    <string name="oc_request_time">Request time</string>
+    <string name="oc_delay">Delay</string>
+    <string name="oc_speed">Speed</string>
+    <string name="oc_latitude">Latitude</string>
+    <string name="oc_longitude">Longitude</string>
+    <string name="oc_save_offline">Save offline</string>
+    <string name="oc_remove_offline">Remove from offline</string>
+    <string name="oc_snack_hint_saved">Trip details saved!</string>
+    <string name="oc_snack_hint_save_fail">Unable to save details!</string>
+    <string name="oc_snack_hint_remove">Trip removed from offline!</string>
+    <string name="oc_snack_hint_remove_fail">Unable to delete details!</string>
+    <string name="oc_query_details">Query details</string>
+    <string name="oc_trip_details">Trip details</string>
+    <string name="oc_location_details">Location details</string>
+    <string name="oc_how_to_use">HOW TO USE</string>
+    <string name="oc_home_screen">HOME SCREEN</string>
+    <string name="oc_favs_screen">FAVORITES SCREEN</string>
+    <string name="oc_got_it">Got it</string>
+    <string name="oc_help_search_tab">This is a search screen, to get route summary and next route information, enter the route number</string>
+    <string name="oc_help_saved">This is a saved trips screen, you can see a list of trips already saved in it.</string>
+    <string name="oc_detail_screen">DETAILS SCREEN</string>
+    <string name="oc_help_detail_screen">You can view all the information about a trip; like - bus speed,
+        its current latitude and longitude, trip start time, delay, destination, request time.</string>
+    <string name="oc_sugg_save">Save trips offline to view statistics!</string>
+    <string name="oc_total_data">Total saved trips:</string>
+    <string name="oc_minimum_delay">Minimum delay</string>
+    <string name="oc_average_delay">Average delay</string>
+    <string name="oc_maximum_delay">Maximum delay</string>
+    <string name="oc_stop_name">Stop Name</string>
+    <string name="oc_data_not_available">Data not available on the server!</string>
 </resources>
