@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Movie app strings-->
+    <string name="movie_select_lang_toast">हिंदी को प्राथमिक भाषा के रूप में चुना जाता है!</string>
+    <string name="movie_welcome">स्वागत हे</string>
+    <string name="movie_hint_movie_name">फिल्म या टीवी शो का नाम दर्ज करें…</string>
+
+    <string name="movie_please_wait">कृपया प्रतीक्षा करें…</string>
+
+    <string name="movie_settings">सेटिंग्स</string>
+    <string name="movie_help">मदद</string>
+    <string name="movie_favorites">पसंदीदा</string>
+    <string name="movie_add_to_string_favorites">पसंदीदा में जोड़े</string>
+    <string name="movie_remove_from_favorites">पसंदीदा से निकालें</string>
+    <string name="movie_got_it">ठीक है</string>
+
+    <string name="movie_how_to_use">कैसे इस्तेमाल करे</string>
+    <string name="movie_home_screen">होम स्क्रीन</string>
+    <string name="movie_fav_screen">पसंदीदा स्क्रीन</string>
+    <string name="movie_detail_screen">फिल्म विवरण स्क्रीन</string>
+    <string name="movie_help_search_tab">यह खोज स्क्रीन है, फिल्म या टीवी शो के बारे में जानकारी प्राप्त करने के लिए आप उसका नाम टाइप करें।</string>
+    <string name="movie_help_movie_desc">मूवी सूची से आपको यहां रीडायरेक्ट किया जाएगा, इस स्क्रीन पर आप मूवी / टीवी शो की जानकारी देख सकते हैं साथ ही आप ऑफ़लाइन पसंदीदा में मूवी की जानकारी जोड़ / निकाल सकते हैं।</string>
+    <string name="movie_help_fav">यह पसंदीदा स्क्रीन है, इसमें आप अपनी पसंदीदा फिल्म या टीवी शो के बारे में जानकारी देख सकते हैं</string>
+
+    <string name="movie_snackbar_text_movie_removed">मूवी को पसंदीदा से हटा दी गई!</string>
+    <string name="movie_snackbar_text_movie_unable_remove">पसंदीदा से मूवी को हटाने में असमर्थ!</string>
+    <string name="movie_snackbar_text_movie_added">मूवी को पसंदीदा में जोड़ा गया!</string>
+    <string name="movie_snackbar_text_movie_unable_add">पसंदीदा में मूवी को जोड़ने में असमर्थ!</string>
+    <string name="movie_no_of_saved_movies">सहेजी गई फिल्मों की संख्या:</string>
+    <string name="movie_shortest_movie_runtime">सबसे छोटी फिल्म रनटाइम:</string>
+    <string name="movie_average_movie_runtime">औसत मूवी रनटाइम:</string>
+    <string name="movie_longest_movie_runtime">सबसे लंबी फिल्म रनटाइम:</string>
+    <string name="movie_min">मिनट</string>
+    <string name="movie_statistics">आंकड़े</string>
+    <string name="movie_movieDetails">फिल्म विवरण</string>
+</resources>
