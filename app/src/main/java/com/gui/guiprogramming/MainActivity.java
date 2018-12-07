@@ -10,6 +10,7 @@ import android.widget.Toolbar;
 import com.gui.guiprogramming.cbc.CBCMainActivity;
 import com.gui.guiprogramming.food.FoodMainActivity;
 import com.gui.guiprogramming.movie.MovieSplashActivity;
+import com.gui.guiprogramming.oc.OCMainActivity;
 
 public class MainActivity extends Activity {
 
@@ -44,7 +45,7 @@ public class MainActivity extends Activity {
         btnOCTranspoApp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //TODO update
+                startActivity(new Intent(MainActivity.this, OCMainActivity.class));
             }
         });
     }

@@ -104,4 +104,54 @@
     <string name="cbc_help_detail_screen">जब आप समाचार शीर्षक पर क्लिक करेंगे तो आपको इस स्क्रीन पर
         रीडायरेक्ट किया जाएगा। आप यहां संक्षिप्त लेख पढ़ सकते हैं, आप लेख को बाद में देखने के लिए ऑफलाइन भी सहेज सकते हैं।
         आप \"अधिक पढ़ें (ब्राउजर में देखें)\" बटन पर क्लिक करके विस्तृत लेख भी पढ़ सकते हैं।</string>
+
+    <!--OC transpo app strings-->
+    <string name="oc_hint_route_no">मार्ग संख्या दर्ज करें…</string>
+
+    <string name="oc_statistics">आंकड़े</string>
+    <string name="oc_help">मदद</string>
+    <string name="oc_destination">मंज़िल</string>
+    <string name="oc_start_time">प्रस्थान</string>
+    <string name="oc_stop">स्टॉप</string>
+    <string name="oc_route">मार्ग</string>
+    <string name="oc_trip_start_time">यात्रा शुरू समय</string>
+    <string name="oc_route_no">मार्ग संख्या</string>
+    <string name="oc_directionid">दिशा आईडी</string>
+    <string name="oc_direction">दिशा</string>
+    <string name="oc_routeheading">मार्ग की ओर</string>
+    <string name="oc_route_label">मार्ग लेबल</string>
+    <string name="oc_showing_route_directions_for">के लिए मार्ग-दिशा दिखा रहा है:</string>
+    <string name="oc_select_trip_route">यात्रा मार्ग का चयन करें</string>
+    <string name="oc_select_route_direction">मार्ग-दिशा का चयन करें</string>
+    <string name="oc_bus_stop">बस स्टॉप</string>
+    <string name="oc_request_time">अनुरोध समय</string>
+    <string name="oc_delay">देरी</string>
+    <string name="oc_speed">गति</string>
+    <string name="oc_latitude">अक्षांश</string>
+    <string name="oc_longitude">देशांतर</string>
+    <string name="oc_save_offline">ऑफ़लाइन सहेजें</string>
+    <string name="oc_remove_offline">ऑफ़लाइन से निकालें</string>
+    <string name="oc_snack_hint_saved">यात्रा विवरण सहेजा गया है!</string>
+    <string name="oc_snack_hint_save_fail">विवरण सहेजने में असमर्थ!</string>
+    <string name="oc_snack_hint_remove">ऑफ़लाइन से ट्रिप हटा दी गई!</string>
+    <string name="oc_snack_hint_remove_fail">विवरण हटाने में असमर्थ!</string>
+    <string name="oc_query_details">जाँच विवरण</string>
+    <string name="oc_trip_details">यात्रा विवरण</string>
+    <string name="oc_location_details">स्थान विवरण</string>
+    <string name="oc_how_to_use">कैसे इस्तेमाल करे</string>
+    <string name="oc_home_screen">होम स्क्रीन</string>
+    <string name="oc_favs_screen">पसंदीदा स्क्रीन</string>
+    <string name="oc_got_it">ठीक है</string>
+    <string name="oc_help_search_tab">यह एक खोज स्क्रीन है, मार्ग सारांश और अगली यात्रा की जानकारी प्राप्त करने के लिए, मार्ग संख्या दर्ज करें</string>
+    <string name="oc_help_saved">यह एक सहेजा गया ट्रिप स्क्रीन है, आप इसमें पहले से सहेजी गई यात्राओं की एक सूची देख सकते हैं।</string>
+    <string name="oc_detail_screen">विवरण स्क्रीन</string>
+    <string name="oc_help_detail_screen">आप यात्रा के बारे में सारी जानकारी देख सकते हैं; जैसे - बस की गति,
+        इसकी वर्तमान अक्षांश और देशांतर, यात्रा शुरू करने का समय, देरी, गंतव्य, अनुरोध समय।</string>
+    <string name="oc_sugg_save">आंकड़े देखने के लिए ऑफ़लाइन यात्राएं सहेजें</string>
+    <string name="oc_total_data">कुल सहेजी गई यात्राएं:</string>
+    <string name="oc_minimum_delay">न्यूनतम देरी</string>
+    <string name="oc_average_delay">औसत देरी</string>
+    <string name="oc_maximum_delay">अधिकतम देरी</string>
+    <string name="oc_stop_name">स्टॉप नाम</string>
+    <string name="oc_data_not_available">डेटा सर्वर पर उपलब्ध नहीं है!</string>
 </resources>
