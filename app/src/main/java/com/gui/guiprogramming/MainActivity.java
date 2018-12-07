@@ -23,13 +23,13 @@ public class MainActivity extends Activity {
         btnCBCApp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //TODO
+                //TODO update
             }
         });
         btnFoodNutrientsApp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //TODO
+                //TODO update
             }
         });
         btnMovieInfoApp.setOnClickListener(new View.OnClickListener() {
@@ -41,7 +41,7 @@ public class MainActivity extends Activity {
         btnOCTranspoApp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //TODO
+                //TODO update
             }
         });
     }
