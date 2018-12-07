@@ -33,4 +33,43 @@
     <string name="movie_min">मिनट</string>
     <string name="movie_statistics">आंकड़े</string>
     <string name="movie_movieDetails">फिल्म विवरण</string>
+
+    <!--Food app strings-->
+    <string name="food_please_wait">कृपया प्रतीक्षा करें…</string>
+    <string name="food_hint_enter_text">खोजने के लिए घटक शीर्षक दर्ज करें…</string>
+
+    <string name="food_add_to_string_favorites">पसंदीदा में जोड़े</string>
+    <string name="food_remove_from_favorites">पसंदीदा से निकालें</string>
+
+    <string name="food_snackbar_text_item_removed">संघटक को पसंदीदा से हटा दीया गया!</string>
+    <string name="food_snackbar_text_item_unable_remove">पसंदीदा से संघटक को हटाने में असमर्थ!</string>
+    <string name="food_snackbar_text_item_added">संघटक को पसंदीदा में जोड़ा गया!</string>
+    <string name="food_snackbar_text_item_unable_add">पसंदीदा में संघटक को जोड़ने में असमर्थ!</string>
+    <string name="food_sugg_add_ingr">Add ingredients to favorites to view statistics!</string>
+
+    <string name="food_statistics">आंकड़े</string>
+    <string name="food_help">मदद</string>
+    <string name="food_nutrients_table">पोषक तत्वों की सूची</string>
+    <string name="food_energy">ऊर्जा</string>
+    <string name="food_protein">प्रोटीन</string>
+    <string name="food_fat">चरबी</string>
+    <string name="food_carbs">कार्बोहाइड्रेट</string>
+    <string name="food_enter_tag_to_set">सेट करने के लिए टैग दर्ज करें</string>
+    <string name="food_cancel">रद्द करें</string>
+    <string name="food_ok">ठीक</string>
+    <string name="food_total_data">कुल सहेजे गए तत्व:</string>
+    <string name="food_total_calories">कुल कैलोरी:</string>
+    <string name="food_minimum_calories">न्यूनतम कैलोरी:</string>
+    <string name="food_average_calories">औसत कैलोरी:</string>
+    <string name="food_maximum_calories">अधिकतम कैलोरी:</string>
+    <string name="food_category">वर्ग:</string>
+
+    <string name="food_how_to_use">कैसे इस्तेमाल करे</string>
+    <string name="food_home_screen">होम स्क्रीन</string>
+    <string name="food_fav_screen">पसंदीदा स्क्रीन</string>
+    <string name="food_got_it">ठीक है</string>
+    <string name="food_help_search_tab">यह खोज स्क्रीन है, विभिन्न घटक के बारे में जानकारी प्राप्त करने के लिए आप उसका नाम टाइप करें।</string>
+    <string name="food_help_fav">यह एक पसंदीदा स्क्रीन है, आप इसमें पहले से सहेजे गए घटक की सूची देख सकते हैं।</string>
+    <string name="food_ingredient_detail_screen">संघटक विवरण स्क्रीन</string>
+    <string name="food_help_detail_screen">घटक की सूची से, आपको यहां रीडायरेक्ट किया जाएगा। इस स्क्रीन पर आप एक घटक के पोषण देख सकते हैं।</string>
 </resources>

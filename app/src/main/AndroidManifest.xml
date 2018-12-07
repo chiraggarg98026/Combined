@@ -46,6 +46,25 @@
             android:name=".movie.MovieStatisticsActivity"
             android:label="@string/movie_statistics"
             android:screenOrientation="portrait" />
+
+        <!-- Food app activities below -->
+        <activity
+            android:name=".food.FoodMainActivity"
+            android:label="@string/food_app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".food.FoodDetailsActivity"
+            android:label="@string/food_app_name"
+            android:parentActivityName=".food.FoodMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".food.FoodFavoritesActivity"
+            android:label="@string/food_app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".food.FoodStatisticsActivity"
+            android:label="Statistics"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>

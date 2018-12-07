@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toolbar;
+
+import com.gui.guiprogramming.food.FoodMainActivity;
 import com.gui.guiprogramming.movie.MovieSplashActivity;
 
 public class MainActivity extends Activity {
@@ -29,7 +31,7 @@ public class MainActivity extends Activity {
         btnFoodNutrientsApp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //TODO update
+                startActivity(new Intent(MainActivity.this, FoodMainActivity.class));
             }
         });
         btnMovieInfoApp.setOnClickListener(new View.OnClickListener() {

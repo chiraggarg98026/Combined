@@ -36,4 +36,44 @@
     <string name="movie_statistics">Statistics</string>
     <string name="movie_movieDetails">Movie details</string>
 
+    <!--Food app strings-->
+    <string name="food_app_name" translatable="false">FoodNutrition</string>
+    <string name="food_please_wait">Please wait…</string>
+    <string name="food_hint_enter_text">Enter ingredient title to search…</string>
+
+    <string name="food_add_to_string_favorites">Add to favorites</string>
+    <string name="food_remove_from_favorites">Remove from favorites</string>
+
+    <string name="food_snackbar_text_item_removed">Ingredient removed from favorites!</string>
+    <string name="food_snackbar_text_item_unable_remove">Unable to remove ingredient from favorites!</string>
+    <string name="food_snackbar_text_item_added">Ingredient added to favorites!</string>
+    <string name="food_snackbar_text_item_unable_add">Unable to add ingredient to favorites!</string>
+    <string name="food_sugg_add_ingr">Add ingredients to favorites to view statistics!</string>
+
+    <string name="food_statistics">Statistics</string>
+    <string name="food_help">Help</string>
+    <string name="food_nutrients_table">nutrients table</string>
+    <string name="food_energy">Energy</string>
+    <string name="food_protein">Protein</string>
+    <string name="food_fat">fat</string>
+    <string name="food_carbs">Carbs</string>
+    <string name="food_enter_tag_to_set">Enter TAG to set</string>
+    <string name="food_cancel">Cancel</string>
+    <string name="food_ok">OK</string>
+    <string name="food_total_data">Total saved ingredients:</string>
+    <string name="food_total_calories">Total calories:</string>
+    <string name="food_minimum_calories">Minimum calories:</string>
+    <string name="food_average_calories">Average calories:</string>
+    <string name="food_maximum_calories">Maximum calories:</string>
+    <string name="food_category">Category:</string>
+
+    <string name="food_how_to_use">HOW TO USE</string>
+    <string name="food_home_screen">HOME SCREEN</string>
+    <string name="food_fav_screen">FAVORITES SCREEN</string>
+    <string name="food_got_it">Got it</string>
+    <string name="food_help_search_tab">This is a Search screen, to get information about different ingredients, you can type its name.</string>
+    <string name="food_help_fav">This is a Favorites screen, you can view previously saved ingredient list in this.</string>
+    <string name="food_ingredient_detail_screen">INGREDIENT DETAILS SCREEN</string>
+    <string name="food_help_detail_screen">From the list of ingredients, you will be redirected here. On this screen you can see the nutrition of an ingredient.</string>
+
 </resources>
