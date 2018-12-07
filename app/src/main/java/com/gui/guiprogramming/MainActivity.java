@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toolbar;
 
+import com.gui.guiprogramming.cbc.CBCMainActivity;
 import com.gui.guiprogramming.food.FoodMainActivity;
 import com.gui.guiprogramming.movie.MovieSplashActivity;
 
@@ -25,7 +26,7 @@ public class MainActivity extends Activity {
         btnCBCApp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //TODO update
+                startActivity(new Intent(MainActivity.this, CBCMainActivity.class));
             }
         });
         btnFoodNutrientsApp.setOnClickListener(new View.OnClickListener() {

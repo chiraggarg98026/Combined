@@ -65,6 +65,25 @@
             android:name=".food.FoodStatisticsActivity"
             android:label="Statistics"
             android:screenOrientation="portrait" />
+
+        <!-- CBC news app activities below -->
+        <activity
+            android:name=".cbc.CBCMainActivity"
+            android:label="@string/cbc_app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".cbc.CBCDetailActivity"
+            android:label="@string/cbc_app_name"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".cbc.CBCStatisticsActivity"
+            android:label="Statistics"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".cbc.CBCFavoritesActivity"
+            android:label="@string/cbc_app_name"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
