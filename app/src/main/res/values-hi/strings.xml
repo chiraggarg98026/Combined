@@ -72,4 +72,36 @@
     <string name="food_help_fav">यह एक पसंदीदा स्क्रीन है, आप इसमें पहले से सहेजे गए घटक की सूची देख सकते हैं।</string>
     <string name="food_ingredient_detail_screen">संघटक विवरण स्क्रीन</string>
     <string name="food_help_detail_screen">घटक की सूची से, आपको यहां रीडायरेक्ट किया जाएगा। इस स्क्रीन पर आप एक घटक के पोषण देख सकते हैं।</string>
+
+    <!--CBC app -->
+    <string name="cbc_author">लेखक:</string>
+    <string name="cbc_published_date">प्रकाशित तिथि:</string>
+    <string name="cbc_category">वर्ग:</string>
+    <string name="cbc_read_more_view_in_browser">और पढ़ें (ब्राउजर में देखें)</string>
+    <string name="cbc_save_article_offline">लेख ऑफ़लाइन सहेजें</string>
+    <string name="cbc_remove_offline_article">ऑफ़लाइन से लेख निकालें</string>
+
+    <string name="cbc_snack_removed">लेख ऑफ़लाइन से हटा दिया गया!</string>
+    <string name="cbc_snack_removed_fail">ऑफलाइन से लेख को हटाने में असमर्थ!</string>
+    <string name="cbc_snack_add">लेख ऑफ़लाइन सहेजा गया!</string>
+    <string name="cbc_snack_add_fail">लेख ऑफ़लाइन सहेजने में असमर्थ!</string>
+
+    <string name="cbc_sugg_save">आंकड़े देखने के लिए ऑफ़लाइन लेख सहेजें!</string>
+    <string name="cbc_stat_max_word_count">अधिकतम शब्द गणना</string>
+    <string name="cbc_stat_min_word_count">न्यूनतम शब्द गणना</string>
+    <string name="cbc_stat_avg_word_count">औसत शब्द गणना</string>
+
+    <string name="cbc_how_to_use">कैसे इस्तेमाल करे</string>
+    <string name="cbc_home_screen">होम स्क्रीन</string>
+    <string name="cbc_fav_screen">पसंदीदा स्क्रीन</string>
+    <string name="cbc_detail_screen">समाचार विवरण स्क्रीन</string>
+    <string name="cbc_got_it">ठीक है</string>
+
+    <string name="cbc_help_search_scr">यह एक समाचार फ़ीड स्क्रीन है, आप सीबीसी समाचार से नवीनतम समाचार खिताब देख सकते हैं।
+     विस्तृत लेख पढ़ने के लिए शीर्षक पर क्लिक करें।</string>
+    <string name="cbc_help_saved">यह एक सहेजा गया लेख टैब है,
+         आप पहले से सहेजे गए समाचार लेखों के शीर्षक की एक सूची देख सकते हैं। विस्तृत लेख पढ़ने के लिए शीर्षक पर क्लिक करें।</string>
+    <string name="cbc_help_detail_screen">जब आप समाचार शीर्षक पर क्लिक करेंगे तो आपको इस स्क्रीन पर
+        रीडायरेक्ट किया जाएगा। आप यहां संक्षिप्त लेख पढ़ सकते हैं, आप लेख को बाद में देखने के लिए ऑफलाइन भी सहेज सकते हैं।
+        आप \"अधिक पढ़ें (ब्राउजर में देखें)\" बटन पर क्लिक करके विस्तृत लेख भी पढ़ सकते हैं।</string>
 </resources>

@@ -76,4 +76,37 @@
     <string name="food_ingredient_detail_screen">INGREDIENT DETAILS SCREEN</string>
     <string name="food_help_detail_screen">From the list of ingredients, you will be redirected here. On this screen you can see the nutrition of an ingredient.</string>
 
+    <!--CBC app -->
+    <string name="cbc_app_name" translatable="false">CBC News reader</string>
+    <string name="cbc_author">Author:</string>
+    <string name="cbc_published_date">Published date:</string>
+    <string name="cbc_category">Category:</string>
+    <string name="cbc_read_more_view_in_browser">READ MORE (VIEW IN BROWSER)</string>
+    <string name="cbc_save_article_offline">Save article offline</string>
+    <string name="cbc_remove_offline_article">Remove article from offline</string>
+    <string name="cbc_snack_removed">Article removed from offline!</string>
+    <string name="cbc_snack_removed_fail">Unable to remove article from offline!</string>
+    <string name="cbc_snack_add">Article saved offline!</string>
+    <string name="cbc_snack_add_fail">Unable to save article offline!</string>
+
+    <string name="cbc_sugg_save">Save articles offline to view statistics!</string>
+    <string name="cbc_stat_max_word_count">Maximum word count</string>
+    <string name="cbc_stat_min_word_count">Minimum word count</string>
+    <string name="cbc_stat_avg_word_count">Average word count</string>
+
+    <string name="cbc_how_to_use">HOW TO USE</string>
+    <string name="cbc_home_screen">HOME SCREEN</string>
+    <string name="cbc_fav_screen">FAVORITES SCREEN</string>
+    <string name="cbc_detail_screen">News detail screen</string>
+    <string name="cbc_got_it">Got it</string>
+
+    <string name="cbc_help_search_scr">This is a news feeds screen, you can view latest news titles from CBC news.
+    Click on the title to read detailed article.</string>
+    <string name="cbc_help_saved">This is a saved articles screen,
+        you can see a list of news articles\' title already saved in it.
+        Click on the title to read detailed article.</string>
+    <string name="cbc_help_detail_screen">You will be redirected at this screen when you
+        click on the news title. You can read short article here, you can also save the article
+        offline to view later. You can also read detailed article by clicking the
+        \"READ MORE (VIEW IN BROWSER)\" button.</string>
 </resources>
